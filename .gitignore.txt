@@ -1,0 +1,2 @@
+# Indicamos lo que queremos excluir para que no sea tratado por git.
+node_modules
